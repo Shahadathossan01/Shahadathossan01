@@ -1,3 +1,6 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 <p align="center"><img   width="500"
       height="500"  src="https://github.com/user-attachments/assets/907a4f87-b4b7-4840-9673-d31dfc76b2de" alt="adam-pw" /></p>
 
@@ -10,13 +13,13 @@ Shahadat Hossen</a></h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Works+on+Front-End+Development+🌟">
 </p>
 
-<h1><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Portfolio</a></h1>
+<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Portfolio</a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+
+
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -29,15 +32,6 @@ Portfolio</a></h1>
 ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
   
-
-
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
