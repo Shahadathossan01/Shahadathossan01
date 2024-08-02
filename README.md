@@ -1,4 +1,6 @@
-![IMG_20220605_124206](https://github.com/user-attachments/assets/5f109c7f-e499-4491-8454-ef5a5b8f5720)
+<P align="center" height="500" width="500">
+    ![IMG_20220605_124206](https://github.com/user-attachments/assets/5f109c7f-e499-4491-8454-ef5a5b8f5720)
+</P>
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
