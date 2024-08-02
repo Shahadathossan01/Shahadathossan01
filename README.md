@@ -225,6 +225,19 @@ Saurabh</a></h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+------
+
+Credit: [Kiran1689](https://github.com/Kiran1689)
+
+Last Edited on: 29/11/2023
+
+ 
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [Adam-pw](https://github.com/Adam-pw)
