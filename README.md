@@ -226,6 +226,9 @@ Saurabh</a></h1>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+  
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
@@ -233,11 +236,4 @@ Saurabh</a></h1>
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
 Last Edited on: 29/11/2023
-
- 
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[Adam-pw](https://github.com/Adam-pw)
