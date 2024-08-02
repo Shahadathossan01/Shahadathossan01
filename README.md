@@ -1,4 +1,4 @@
-<p><img align="center"  width="500"
+<p align="center"><img   width="500"
       height="500"  src="https://github.com/user-attachments/assets/5f109c7f-e499-4491-8454-ef5a5b8f5720" alt="adam-pw" /></p>
 
 ## Hi there 👋
