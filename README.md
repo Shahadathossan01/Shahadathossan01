@@ -9,7 +9,7 @@
     alt="adam-pw" /> 
   </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<p><img align="right" src="[https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif](https://github.com/user-attachments/assets/5f109c7f-e499-4491-8454-ef5a5b8f5720)" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/user-attachments/assets/5f109c7f-e499-4491-8454-ef5a5b8f5720" alt="adam-pw" /></p>
 
 
 
