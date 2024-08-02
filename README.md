@@ -1,5 +1,5 @@
 <p align="center"><img   width="500"
-      height="500"  src="https://github.com/user-attachments/assets/5f109c7f-e499-4491-8454-ef5a5b8f5720" alt="adam-pw" /></p>
+      height="500"  src="https://github.com/user-attachments/assets/dfc0175c-73c5-4bf4-a4a3-cd6bec07c5f1" alt="adam-pw" /></p>
 
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
