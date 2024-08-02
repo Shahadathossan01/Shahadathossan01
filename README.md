@@ -14,14 +14,15 @@ Shahadat Hossen</a></h1>
 </p>
 
 <p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Portfolio</a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Portfolio</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
+# 👨🏻‍💻 &nbsp;About Me
+<p>8+ years of professional experience as a software developer.  Java expert.  Kotlin enthusiast. Specialised in backend development and build management.Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, teamwork and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.</p>
 
+<p>I love open source. I am not a heavy maintainer of any large libraries, but I like the Boy Scouts rule. I contribute to things as I come across issues that other people might struggle with. These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good examples.</p>
 
-
-
-### 👨🏻‍💻 &nbsp;About Me
+<p>With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.</p>
 
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -31,12 +32,12 @@ Portfolio</a></p>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-  
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Projects
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
 <br><br>
 
