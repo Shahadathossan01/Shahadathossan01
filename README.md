@@ -9,7 +9,8 @@
 
 ## Hi there 👋
 <h1 align="center">I'm Shahadat Hossen</h1>
-<h3 align="center">Web Developer Works on Front-end Development🌟.</h3>
+<h2 align="center" color="green">Web Developer🌟.</h2>
+<h3 align="center">Web Developer Works on Front-End Development🌟.</h3>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
