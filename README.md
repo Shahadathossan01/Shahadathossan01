@@ -1,25 +1,15 @@
 <p align="center"><img   width="500"
       height="500"  src="https://github.com/user-attachments/assets/907a4f87-b4b7-4840-9673-d31dfc76b2de" alt="adam-pw" /></p>
-<!-- <p align="center"><img   width="500"
-      height="500"  src="https://github.com/user-attachments/assets/9b820b86-9a0a-4e8c-881c-5f9117623de4" alt="adam-pw" /></p> -->
-<!-- <p align="center"><img   width="500"
-      height="500"  src="https://github.com/user-attachments/assets/2a18f572-128c-47e6-8a1d-75c8fadd10b2" alt="adam-pw" /></p> -->
 
+## Hi there👋
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h1 align="center">I'm Shahadat Hossen</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
-</p>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Shahadat Hossen</a></h1>
 <h2 style="color: green" align="center">Web Developer</h2>
-<h3 align="center">Works on Front-End Development🌟.</h3><p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=39D353&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Works+on+Front-End+Development+🌟">
 </p>
+
 ### Portfolio: https://brdhanani.github.io
 <br>
 
@@ -39,7 +29,7 @@ Saurabh</a></h1>
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
   
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -227,16 +217,8 @@ Saurabh</a></h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-<!--Footer--> 
+  <p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-------
-
 Last Edited on: 29/11/2023
