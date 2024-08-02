@@ -12,6 +12,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Saurabh</a></h1>
 <h1 align="center">I'm Shahadat Hossen</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+</p>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h2 style="color: green" align="center">Web Developer</h2>
 <h3 align="center">Works on Front-End Development🌟.</h3><p align="center">
