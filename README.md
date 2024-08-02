@@ -9,7 +9,7 @@
 
 ## Hi there 👋
 <h1 align="center">I'm Shahadat Hossen</h1>
-<h2 align="center" color=green>Web Developer🌟.</h2>
+<h2 align="center" color=0e75b6>Web Developer🌟.</h2>
 <h3 align="center">Works on Front-End Development🌟.</h3>
 <br>
 
