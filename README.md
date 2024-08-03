@@ -24,7 +24,9 @@ Shahadat Hossen</a></h1>
 	  &emsp;
 	  &emsp;
 	  &emsp;
-	<a href="https://www.linkedin.com/in/shahadat-hossen-bb9218243/"><img align='center' src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/shahadat-hossen-bb9218243/"><img align='center' src="www.linkedin.com/in/
+shahadat-hossen-bb9218243
+" alt="LinkedIn"/></a>
 	  &emsp;
 	  &emsp;
 	  &emsp;
