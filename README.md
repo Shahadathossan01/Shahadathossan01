@@ -1,5 +1,5 @@
 <p align="center"><img   width="500"
-      height="500"  src="https://github.com/user-attachments/assets/907a4f87-b4b7-4840-9673-d31dfc76b2de" alt="adam-pw" /></p>
+      height="500"  src="https://github.com/user-attachments/assets/0ee3cb87-6e69-467a-b04e-1df679ab21f2" alt="adam-pw" /></p>
 
 # Hi there👋
 
