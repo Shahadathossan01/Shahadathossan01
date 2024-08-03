@@ -21,8 +21,13 @@ Shahadat Hossen</a></h1>
 	  &emsp;
 	  &emsp;
 	  &emsp;
-	<a  href="https://shahadathossentopu08@gmail.com"><img align='center' src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	  &emsp;
+	  &emsp;
+	  &emsp;
 	<a href="https://www.linkedin.com/in/7oskaa/"><img align='center' src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	  &emsp;
+	  &emsp;
+	  &emsp;
 	  &emsp;
 	  &emsp;
 	  &emsp;
