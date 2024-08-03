@@ -10,7 +10,7 @@ Shahadat Hossen</a></h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Works+on+Front-End+Development+🌟">
 </p>
 
-<p>
+<p align='center'>
 	<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Portfolio</a>
 	||
 	<a  href="https://github.com/user-attachments/files/16478575/BubbleCV__3_.1.pdf">Resume</a>
@@ -23,16 +23,8 @@ Shahadat Hossen</a></h1>
 	  &emsp;
 	  &emsp;
 	  &emsp;
-	  &emsp;
-	  &emsp;
-	  &emsp;
-	  &emsp;
 	<a  href="mailto:ahmed.7oskaa@gmail.com"><img align='center' src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/7oskaa/"><img align='center' src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	  &emsp;
-	  &emsp;
-	  &emsp;
-	  &emsp;
 	  &emsp;
 	  &emsp;
 	  &emsp;
