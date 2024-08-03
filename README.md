@@ -13,7 +13,7 @@ Shahadat Hossen</a></h1>
 <p>
 	<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Portfolio</a>
 	||
-	<a  href="mailto:ahmed.7oskaa@gmail.com">Resume</a>
+	<a  href="file:///D:/BubbleCV__3_%20(1).pdf">Resume</a>
 	  &emsp;
 	  &emsp;
 	  &emsp;
@@ -53,6 +53,7 @@ Shahadat Hossen</a></h1>
 <p>With 3+ years of experience as a Front-End Developer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.</p>
 
 <p>I love open source. I am not a heavy maintainer of any large libraries, but I like the Boy Scouts rule. I contribute to things as I come across issues that other people might struggle with. These may be things that are overlooked by someone who is deep into the library. </p>
+
 👨‍💻 &nbsp; Fast learner and eager to explore new technologies. \
 💡 &nbsp; Able to switch between perfectionism and pragmatism.\
 ✍️ &nbsp; Believer in agile software development, and teamwork  Always questioning the status quo and wanting to improve.\
