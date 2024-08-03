@@ -41,8 +41,6 @@ Shahadat Hossen</a></h1>
 	  &emsp;
 	  &emsp;
 	  &emsp;
-	  &emsp;
-	  &emsp;
 	<a href="https://www.linkedin.com/in/7oskaa/"><img align='center' src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /></a>
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
