@@ -12,8 +12,8 @@ Shahadat Hossen</a></h1>
 
 <p>
 	<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Portfolio</a>
-	  &emsp;
-	  &emsp;
+	||
+	<a  href="mailto:ahmed.7oskaa@gmail.com">Resume</a>
 	  &emsp;
 	  &emsp;
 	  &emsp;
@@ -45,25 +45,19 @@ Shahadat Hossen</a></h1>
 	  &emsp;
 	  &emsp;
 	  &emsp;
-	  &emsp;
-	  &emsp;
 	<a href="https://www.linkedin.com/in/7oskaa/"><img align='center' src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /></a>
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 # 👨🏻‍💻 &nbsp;About Me
-<p>8+ years of professional experience as a software developer.  Java expert.  Kotlin enthusiast. Specialised in backend development and build management.Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, teamwork and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.</p>
+<p>With 3+ years of experience as a Front-End Developer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.</p>
 
-<p>I love open source. I am not a heavy maintainer of any large libraries, but I like the Boy Scouts rule. I contribute to things as I come across issues that other people might struggle with. These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good examples.</p>
-
-<p>With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.</p>
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+<p>I love open source. I am not a heavy maintainer of any large libraries, but I like the Boy Scouts rule. I contribute to things as I come across issues that other people might struggle with. These may be things that are overlooked by someone who is deep into the library. </p>
+👨‍💻 &nbsp; Fast learner and eager to explore new technologies. \
+💡 &nbsp; Able to switch between perfectionism and pragmatism.\
+✍️ &nbsp; Believer in agile software development, and teamwork  Always questioning the status quo and wanting to improve.\
+🌱 &nbsp; Able and willing to think outside the box.\
+✍️ &nbsp; In my free time, I read documents.\
 ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
