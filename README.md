@@ -1,6 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
 <p align="center"><img   width="500"
       height="500"  src="https://github.com/user-attachments/assets/907a4f87-b4b7-4840-9673-d31dfc76b2de" alt="adam-pw" /></p>
 
@@ -13,9 +10,46 @@ Shahadat Hossen</a></h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Works+on+Front-End+Development+🌟">
 </p>
 
-<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Portfolio</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<p>
+	<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Portfolio</a>
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	<a  href="mailto:ahmed.7oskaa@gmail.com"><img align='center' src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img align='center' src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	  &emsp;
+	<a href="https://www.linkedin.com/in/7oskaa/"><img align='center' src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /></a>
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 # 👨🏻‍💻 &nbsp;About Me
 <p>8+ years of professional experience as a software developer.  Java expert.  Kotlin enthusiast. Specialised in backend development and build management.Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, teamwork and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.</p>
