@@ -13,7 +13,7 @@ Shahadat Hossen</a></h1>
 <p>
 	<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Portfolio</a>
 	||
-	<a  href="file:///D:/BubbleCV__3_%20(1).pdf">Resume</a>
+	<a  href="https://github.com/user-attachments/files/16478575/BubbleCV__3_.1.pdf">Resume</a>
 	  &emsp;
 	  &emsp;
 	  &emsp;
