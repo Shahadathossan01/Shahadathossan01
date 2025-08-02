@@ -37,9 +37,11 @@ Sahadat Hosen</a></h1>
 </p>
 
 # 👨🏻‍💻 &nbsp;About Me
-<p>With 3+ years of experience as a Front-End Developer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.</p>
+<P></P>
+<P>Assalamu Alaykum,</P>
+<p>I’m Sahadat Hosen —a Full Stack Web Developer (MERN) with a B.Sc. in Computer Science & Engineering from Gono Bishwabidyalay, Savar, Dhaka.</p>
 
-<p>I love open source. I am not a heavy maintainer of any large libraries, but I like the Boy Scouts rule. I contribute to things as I come across issues that other people might struggle with. These may be things that are overlooked by someone who is deep into the library. </p>
+<p>Over the past 3 years, I’ve specialised in building production-ready web applications using the MERN stack. I believe that clean code and purposeful design can change the way people interact with technology.</p>
 
 👨‍💻 &nbsp; Fast learner and eager to explore new technologies. \
 💡 &nbsp; Able to switch between perfectionism and pragmatism.\
