@@ -90,24 +90,6 @@ With my hands-on experience building full-fledged web applications using the MER
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Projects
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
-
-<img width='50%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🤞<strong>Mess Meal</strong>
- 	<p>This is online mess system. There all members can register and everyone cab be fill up there own meal.</p>
-  	<p>Tecnology: javaScript, react, strapi</p>
-   	<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">live link</a>  &&  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">src code</a></p>
-    <img width='50%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🤞<strong>Mess Meal</strong>
- 	<p>This is online mess system. There all members can register and everyone cab be fill up there own meal.</p>
-  	<p>Tecnology: javaScript, react, strapi</p>
-   	<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">live link</a>  &&  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">src code</a></p>
-    <img width='50%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🤞<strong>Mess Meal</strong>
- 	<p>This is online mess system. There all members can register and everyone cab be fill up there own meal.</p>
-  	<p>Tecnology: javaScript, react, strapi</p>
-   	<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">live link</a>  &&  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">src code</a></p>
-    <img width='50%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🤞<strong>Mess Meal</strong>
  	<p>This is online mess system. There all members can register and everyone cab be fill up there own meal.</p>
   	<p>Tecnology: javaScript, react, strapi</p>
