@@ -1,13 +1,11 @@
-<p align="center"><img   width="500"
-      height="500"  src="https://github.com/user-attachments/assets/0ee3cb87-6e69-467a-b04e-1df679ab21f2" alt="adam-pw" /></p>
 
 # Hi there👋
 
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/shahadat-hossen-bb9218243/" target="blank">
-Shahadat Hossen</a></h1>
-<h2 style="color: green" align="center">Web Developer</h2>
+Sahadat Hosen</a></h1>
+<h2 style="color: green" align="center">Full Stack Web Developer (MERN)</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Works+on+Front-End+Development+🌟">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Works+on+MERN+Stack+🌟">
 </p>
 
 <p align='center'>
