@@ -136,4 +136,4 @@ With my hands-on experience building full-fledged web applications using the MER
   <img align='center' src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-<p align='center'>Last Edited on: 03/08/2024</p>
+<p align='center'>Last Edited on: 08/02/2025</p>
