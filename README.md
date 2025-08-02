@@ -88,16 +88,33 @@ With my hands-on experience building full-fledged web applications using the MER
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+Sureline (MERN Stack Online Treatment Web Application) Live Link GitHub Link
+• Developed a healthcare platform where patients can book appointments and make payments using
+SSLCommerz.
+• Implemented role-based authentication for patients, doctors, and admins using JWT.
+• Integrated video consultation, prescription management, and test result uploads.
+
+Employee Management System (MERN Stack Web Application) Live Link GitHub Link
+• Implemented role-based authentication for employees and admins using JWT.
+• Built an admin panel to manage employees and assign tasks.
+• Enabled employees to view assigned tasks and update the current status of each task.
+
+
+
+
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Projects
 
-🤞<strong>Mess Meal</strong>
- 	<p>This is online mess system. There all members can register and everyone cab be fill up there own meal.</p>
-  	<p>Tecnology: javaScript, react, strapi</p>
+🤞<strong>Sureline (MERN Stack Online Treatment Web Application)</strong>
+ 	<p>• Developed a healthcare platform where patients can book appointments and make payments using SSLCommerz.</p>
+  	<p>• Implemented role-based authentication for patients, doctors, and admins using JWT.</p>
+  	<p>• Integrated video consultation, prescription management, and test result uploads.</p>
    	<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">live link</a>  &&  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">src code</a></p>
     <img width='50%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🤞<strong>Mess Meal</strong>
- 	<p>This is online mess system. There all members can register and everyone cab be fill up there own meal.</p>
-  	<p>Tecnology: javaScript, react, strapi</p>
+🤞<strong>Employee Management System (MERN Stack Web Application)</strong>
+ 	<p>• Implemented role-based authentication for employees and admins using JWT.</p>
+  	<p>• Built an admin panel to manage employees and assign tasks.</p>
+  	<p>• Enabled employees to view assigned tasks and update the current status of each task.</p>
    	<p><a href="https://100rabhcsmc.github.io/Me.io/" target="blank">live link</a>  &&  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">src code</a></p>
 <br>
 
