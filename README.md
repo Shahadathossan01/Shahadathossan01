@@ -41,71 +41,28 @@ Sahadat Hosen</a></h1>
 <P>Assalamu Alaykum,</P>
 <p>I’m Sahadat Hosen —a Full Stack Web Developer (MERN) with a B.Sc. in Computer Science & Engineering from Gono Bishwabidyalay, Savar, Dhaka.</p>
 
-<p>Over the past 3 years, I’ve specialised in building production-ready web applications using the MERN stack. I believe that clean code and purposeful design can change the way people interact with technology.</p>
+<p>Over the past 3+ years, I’ve specialised in building production-ready web applications using the MERN stack. I believe that clean code and purposeful design can change the way people interact with technology.</p>
 
-👨‍💻 &nbsp; Fast learner and eager to explore new technologies. \
-💡 &nbsp; Able to switch between perfectionism and pragmatism.\
-✍️ &nbsp; Believer in agile software development, and teamwork  Always questioning the status quo and wanting to improve.\
-🌱 &nbsp; Able and willing to think outside the box.\
-✍️ &nbsp; In my free time, I read documents.\
-✉️ &nbsp; You can shoot me an email at shahadathossentopu08@gmail.com! I'll try to respond as soon as I can.\
+<p>I noticed Many businesses struggle to launch web applications that are not only functional but scalable, maintainable, and user-friendly. Without a solid technical foundation, products fail to deliver long-term value to users.
+
+With my hands-on experience building full-fledged web applications using the MERN Stack (MongoDB, Express.js, React, Node.js), I help businesses overcome these challenges. I specialize in developing clean, scalable systems from intuitive front-end interfaces to secure, high-performance backends. My focus is on delivering real-world, production-ready solutions with an emphasis on performance, usability, and long-term maintainability.</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🛠️ My Skills
 
-###  Programming languages
-<p align="left"> 
-  &emsp; 
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a> 
-  &emsp;
-  <a href="#"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a> 
-  &emsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-</p>
+**Frontend Development:** React.js, JavaScript (ES6+), HTML5, CSS3, Redux, Tailwind CSS, Bootstrap, Material UI.
 
+**Backend Development:** Node.js, Express.js, RESTful APIs, JWT authentication, Firebase, Strapi.
 
-###  Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>   
-  &emsp;
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a> 
-  &emsp;
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-</p>
+**Api Documentation:** Swagger, Postman.
 
+**Database Management:** MongoDB, Mongoose.
 
- ###  Software & Tools
-<p align="left">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-</p>
+**DevOps & Deployment:** Docker, VPS hosting, CloudPanel.
 
-
- ###  IDEs
-<p align="left">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-</p>
+**Tools & Platforms:** Git/Github, Figma.
 
 
  ###  Competitive Programming & Problem Solving
